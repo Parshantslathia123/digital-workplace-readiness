@@ -65,11 +65,7 @@ const Login = () => {
           Don't have an account? <Link to="/register">Register as Employee</Link>
         </div>
 
-        <div className="demo-box">
-          <strong>Demo credentials (after running seed script):</strong><br />
-          Admin: admin@company.com / Admin@123<br />
-          Employee: priya@company.com / Employee@123
-        </div>
+      
       </div>
     </div>
   );
